@@ -227,6 +227,7 @@ function handleCreateBooking() {
 
   alert("Thêm đơn đặt vé thành công.");
 }
+
 // 3. Cập nhật đơn đặt vé
 function handleUpdateBooking() {
   console.log("Cập nhật đơn đặt vé");
